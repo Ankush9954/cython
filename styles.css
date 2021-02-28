@@ -110,7 +110,12 @@ div.service{
 div.testimonials{
     margin: 100px;
 }
-
+h4.testText{
+   
+    width: 100%;
+    text-align: center;
+}
+/* footer */
 div.footerBig{
 color: white;
     background-color: #C82333;
