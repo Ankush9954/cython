@@ -70,6 +70,11 @@ div.popular{
 margin-top: 100px;
 text-align: center;
 }
+div.names{
+    color: white;
+    margin-top: 200px;
+
+}
 div.place-img{
  
     width: 246px;
@@ -186,7 +191,7 @@ color: white;
         text-align: center;
     }
     h4.testText{
-        font-size: 18px;
+        font-size: 14px;
         width: 100%;
         text-align: center;
     }
