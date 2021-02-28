@@ -121,6 +121,8 @@ color: white;
 /* mobile responsive */
 @media only screen and (max-width: 600px) {
 
+
+    
     div.gallery{
     display: flex;
     flex-direction: column;
@@ -141,15 +143,15 @@ color: white;
  
     }
     .headings{
-        margin-top: 20px;
+        margin-top: 10px;
         
     }
     h3.fancy{
-        font-size: 20px;
+        font-size: 15px;
 
     }
     h1.firstHeading{
-        font-size: 30px;
+        font-size: 20px;
     }
     h3.secondHeading{
         font-size: 15px;
@@ -168,6 +170,21 @@ color: white;
         border-radius: 5px;
         box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.25);;
     
+    }
+    body{
+        overflow-x: hidden;
+    }
+
+    h1.tagline{
+        font-size: 30px;
+    }
+    h1.test{
+        text-align: center;
+    }
+    h4.testText{
+        font-size: 14px;
+        width: 100%;
+        text-align: center;
     }
 
 
